@@ -9,6 +9,7 @@
 - CSS Modules
 - Closures no React
 - Integração com Typescript
+- Validação de campos do formulário
 
  Tudo isso somado a boas práticas no desenvolvimento front-end no geral.
  
